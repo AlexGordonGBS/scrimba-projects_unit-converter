@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+}
+
+#cont-red {
+    margin: 20px;
+    padding: 5px;
+    height: 630px;
+    width: 500px;
+    border: 2px dotted red;
+    text-align: center;
+}
+
+#cont-blue {
+    width: 95%;
+    border: 2px dotted blue;
+    height: 30%;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    background: #6943FF;
+    color: #FFFFFF;
+}
+
+#cont-black {
+    width: 95%;
+    /* border: 5px dotted black; */
+    border: none;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+.cont-yellow {
+    margin-top: 10px;
+    width: 90%;
+    border: 10px solid #F4F4F4;
+    height: auto;
+    /* margin: 0 auto; */
+    padding: 10px;
+    position: relative;
+    color: black;
+    background: #FFFFFF;
+}
+
+#value-el {
+    border: 2px solid white;
+    border-radius: 7px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center; 
+    background: #6943FF;
+    color: white
+}
+
+.header {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.result {
+    font-size: 12px;
+    color: black;
+}
+
+#container {
+    width: 640px; /* Can be in percentage also. */
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
+#button-el {
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 20px;
+}
